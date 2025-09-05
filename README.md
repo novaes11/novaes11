@@ -54,7 +54,8 @@
 **Hackathon Health Tech 2025 – Londrina**  
 - Desenvolvimento de um **Dashboard Médico com IA** para análise de hipertensão e diabetes  
 - Prova de conceito (POC) em saúde digital, integrando gráficos interativos e simulação de diagnósticos com IA  
-- 🔗 [Repositório do Projeto](https://github.com/novaes11/SolveTech.ai-project)
+- 🔗 [Repositório do Projeto](https://github.com/novaes11/SolveTech.ai-project) // Em desenvolvimento
+  
 
 ## Educação & Certificações
 🎓 **Centro Universitário Filadélfia (UniFil)** – Bacharelado em Ciências da Computação (2025–2028)  
