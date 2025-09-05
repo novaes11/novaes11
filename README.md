@@ -1,32 +1,25 @@
-## Hi there 👋
+## Olá, eu sou João Vitor Novaes 👋
 
-<!--
-**novaes11/novaes11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=novaes11&show_icons=true&theme=highcontrast">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaes11&layout=compact">
+</div>
+<div style="display: inline-block">
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />                                   
+</div>          
+    
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# João Vitor Novaes 🚀
-
-🌍 Londrina - Paraná | 📧 jvn.novaes@gmail.com | 📱 (43) 99191-2254  
-[LinkedIn](https://www.linkedin.com/in/joão-vitor-novaes-a83a14359/) | [GitHub](https://github.com/novaes11)
-
----
 
 ## Sobre Mim
 💻 Estudante de Ciências da Computação (2º semestre)  
 🎯 Apaixonado por Desenvolvimento de Software & Inteligência Artificial  
 🎓 Busco estágio para aplicar conhecimentos em projetos práticos e crescer profissionalmente  
 
----
+
 
 ## Skills
 
@@ -48,7 +41,7 @@ Here are some ideas to get you started:
 
 **Competências:** Lógica Programável | Resolução de Problemas | Trabalho em Equipe | Proatividade  
 
----
+
 
 ## Experiência & Projetos
 **Grupo de Desenvolvimento e Estudo de IA** – 2025 – Presente  
@@ -58,7 +51,7 @@ Here are some ideas to get you started:
 - Desenvolvimento de solução sustentável para economia circular de insumos químicos  
 - Trabalho em equipe sob metodologia ágil e pressão de tempo  
 
----
+
 
 ## Educação & Certificações
 🎓 **Centro Universitário Filadélfia (UniFil)** – Bacharelado em Ciências da Computação (2025–2029)  
@@ -69,8 +62,16 @@ Here are some ideas to get you started:
 - Python para Machine Learning e Ciência de Dados – Didática Tech – 2025  
 - Desenvolvimento Web (HTML5 & CSS3) – B7web – 2025  
 
----
+
 
 ## Contato
-📧 jvn.novaes@gmail.com | 📱 (43) 99191-2254  
-[LinkedIn](https://www.linkedin.com/in/joão-vitor-novaes-a83a14359/) | [GitHub](https://github.com/novaes11)  
+<div style="display: inline-block">
+  <div>
+    📧 jvn.novaes@gmail.com <br/>
+    📱 (43) 99191-2254 
+   </div>
+  <a href="https://www.linkedin.com/in/joão-vitor-novaes-a83a14359/">
+       <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> 
+  </a>
+      João Vitor Novaes
+</div>
