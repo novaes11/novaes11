@@ -74,7 +74,7 @@
     📱 (43) 99191-2254 
    </div>
   <a href="https://www.linkedin.com/in/joão-vitor-novaes-a83a14359/">
-       <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> 
+       <img height="15em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> 
   </a>
       João Vitor Novaes
 </div>
