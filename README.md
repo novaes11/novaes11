@@ -57,7 +57,7 @@
 - 🔗 [Repositório do Projeto](https://github.com/novaes11/SolveTech.ai-project)
 
 ## Educação & Certificações
-🎓 **Centro Universitário Filadélfia (UniFil)** – Bacharelado em Ciências da Computação (2025–2029)  
+🎓 **Centro Universitário Filadélfia (UniFil)** – Bacharelado em Ciências da Computação (2025–2028)  
 🎓 **Colégio Maxi** – Ensino Médio (2023)  
 
 📜 **Cursos:**  
