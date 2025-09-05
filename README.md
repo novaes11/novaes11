@@ -22,7 +22,7 @@
 
 
 ## Skills
-
+<!--
 **Linguagens:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-F07C00?style=flat&logo=java&logoColor=white) 
@@ -40,7 +40,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat)
 
 **Competências:** Lógica Programável | Resolução de Problemas | Trabalho em Equipe | Proatividade  
-
+-->
 
 
 ## Experiência & Projetos
