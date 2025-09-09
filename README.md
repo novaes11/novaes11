@@ -65,7 +65,7 @@
 📜 **Cursos:**  
 - Introdução ao Python – Didática Tech – 2025  
 - Python para Machine Learning e Ciência de Dados – Didática Tech – 2025  
-- Desenvolvimento Web (HTML5 & CSS3) – B7web – 2025  
+- Desenvolvimento Web (HTML5 & CSS3) – B7web – 2025   (<a href="https://github.com/novaes11/Desenvolvimento-Web-HTML5-e-CSS3-">mais detalhes</a>)
 
 
 
