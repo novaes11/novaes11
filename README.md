@@ -46,6 +46,7 @@
 ## Experiência & Projetos
 **Grupo de Desenvolvimento e Estudo de IA** – 2025 – Presente  
 - Estudo e aplicação de técnicas de IA em projetos práticos  
+- 🔗 [Repositório Penguin Data Lab](https://github.com/novaes11/penguin-data-lab) – Projeto de análise de dados e classificação de espécies de pinguins em Python
 
 **Ideathon Integratech** – Junho 2025  
 - Desenvolvimento de solução sustentável para economia circular de insumos químicos  
@@ -54,7 +55,7 @@
 **Hackathon Health Tech 2025 – Londrina**  
 - Desenvolvimento de um **Dashboard Médico com IA** para análise de hipertensão e diabetes  
 - Prova de conceito (POC) em saúde digital, integrando gráficos interativos e simulação de diagnósticos com IA  
-- 🔗 [Repositório do Projeto](https://github.com/novaes11/SolveTech.ai-project) // Em desenvolvimento
+- 🔗 [Repositório do Projeto](https://github.com/novaes11/SolveTech.ai-project) - Em desenvolvimento
   
 
 ## Educação & Certificações
