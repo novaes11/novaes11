@@ -56,7 +56,11 @@
 - Desenvolvimento de um **Dashboard Médico com IA** para análise de hipertensão e diabetes  
 - Prova de conceito (POC) em saúde digital, integrando gráficos interativos e simulação de diagnósticos com IA  
 - 🔗 [Repositório do Projeto](https://github.com/novaes11/SolveTech.ai-project) - Em desenvolvimento
-  
+
+**Projeto Técnico – Estágio em Engenharia de Software | FURIA Tech** - Abril 2025
+-  Desenvolvimento de um **chatbot interativo para fãs da FURIA** (Challenge #1)
+-  **solução de personalização baseada em dados dos fãs** (Challenge #2).
+- 🔗 [Repositório do Projeto](https://github.com/novaes11/FURIA-PROJECT) - Em desenvolvimento
 
 ## Educação & Certificações
 🎓 **Centro Universitário Filadélfia (UniFil)** – Bacharelado em Ciências da Computação (2025–2028)  
