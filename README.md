@@ -48,6 +48,7 @@
 - Desenvolvimento Web (HTML5 & CSS3) – B7web – 2025   (<a href="https://github.com/novaes11/Curses/tree/main/Desenvolvimento%20Web%20HTML5%20and%20CSS3">mais detalhes</a>)
 - JavaScript (Fundamentos/Avançado) - B7web - 2025    (<a href="https://github.com/novaes11/Curses/tree/main/Fundamentos%20e%20Avancado%20JavaScript">mais detalhes</a>)
 - Fundamentos em Git - B7web - 2025  (<a href="https://github.com/novaes11/Curses/tree/main/Fundamentos%20de%20Git">mais detalhes</a>)
+- Github na prática - B7web - 2025 (<a href="https://github.com/novaes11/Curses/tree/main/Github%20na%20pratica">mais detalhes</a>)
 
 
 
